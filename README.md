@@ -1,9 +1,5 @@
-Hurricane block cipher.
+Hurricane block cipher. Just one of my first projects written in early 2005 :)
 
-Just one of my first projects written in early 2005 :)
-
-Is a symmetric block cipher with 128bit key and block length. 
-Shown good results on statictic cryptographic analysis.
-I even have forgot about it but found that it's used in Total Commander plugin.
+Symmetric block cipher that shown good results on NIST tests.
 
 Placing it here just 4fun.
