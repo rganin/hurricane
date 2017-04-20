@@ -12,7 +12,7 @@
 *  projects is allowed only by the author`s permission. Tha author will not    *
 *  take any responsibility for using this Implementation in illegal ways.      *
 *  If You have some questions or offers to the author, please contact by email *
-*                                gate@ua.fm                                    *
+*                                rganin@gmail.com                              *
 *  Modifying or selling this Implementation is strongly prohibited by the      *
 *  author`s rights! You can publish, copy or merge this Implementation         *
 *  without any restrictions due to the following conditions: the copyright     *
